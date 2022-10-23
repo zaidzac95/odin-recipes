@@ -34,3 +34,15 @@ body {
     box-shadow: 5px 10px;
     transform: translateY(5px);
 }
+
+.nav-bar {
+
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+    background-color: #e66465;
+    border: 5px solid  blanchedalmond;
+    border-radius: 30px;
+    flex-wrap: wrap;
+
+}
